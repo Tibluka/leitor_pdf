@@ -1,10 +1,13 @@
-from flask import Flask, jsonify, send_file, request
+from flask import Flask, request
 from fillpdf import fillpdfs
 import base64
-from io import BytesIO
-import os
+from flask_cors import CORS
+
 
 app = Flask(__name__)
+# Ativar o CORS para todos os endpoints
+
+CORS(app)
 
 # Caminho para o arquivo PDF base
 PDF_PATH = "pdfs/FORM.pdf"  # Ajuste o caminho conforme necessário
