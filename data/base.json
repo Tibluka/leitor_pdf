@@ -1,0 +1,543 @@
+{
+    "areaCliente": "https://cliente.cartoriopaulista.com.br/?_gl=1*uv80dv*_ga*MTUyMTE5NjA5NS4xNzQwNjg1ODE0*_ga_FGYY9M03WE*MTc0MTAwNTQ2Ny40LjEuMTc0MTAwNTQ2OC41OS4wLjE5NDc1MzUzMDg.",
+    "logo": "https://cartoriopaulista.com.br/images/LogoCartorioPaulista.svg",
+    "cores": {
+        "a0": "#184798",
+        "a1": "#ef7b27",
+        "a2": "#6a9bfc",
+        "a3": "#fff",
+        "a4": "#19274b",
+        "a5": "#273e75",
+        "a6": "#f4f6fe",
+        "a7": "#f7fafd",
+        "a8": "",
+        "a9": "",
+        "b0": "",
+        "b1": "",
+        "b2": "",
+        "b3": "",
+        "b4": "",
+        "b5": "",
+        "b6": "",
+        "b7": "",
+        "b8": "",
+        "b9": ""
+    },
+    "fontes": {
+        "titulo": "Sigmar, serif",
+        "subtitulo": "Sigmar, serif",
+        "body": "Sigmar, serif"
+    },
+    "contato": {
+        "endereco": {
+            "enderecoCompleto": "Avenida Paulista, 1776, Bela Vista, São Paulo, SP. CEP: 01310-921",
+            "googleMapsLink": "https://maps.app.goo.gl/1AWeWNEeVjiC9cV78"
+        },
+        "emails": [
+            {
+                "email": "",
+                "link": ""
+            }
+        ],
+        "telefones": [
+            {
+                "numeroTelefone": "",
+                "link": ""
+            }
+        ],
+        "horarioFuncionamento": "Segunda a Sexta das 09:00h às 17:00h",
+        "iconeWhatsapp": {
+            "link": "",
+            "mensagemPadrao": ""
+        },
+        "redesSociais": [
+            {
+                "nome": "facebook",
+                "icone": "fab fa-facebook",
+                "link": "https://www.facebook.com/cartoriopaulista"
+            },
+            {
+                "nome": "twitter",
+                "icone": "fab fa-twitter",
+                "link": "https://twitter.com/cartpaulista"
+            },
+            {
+                "nome": "linkedin",
+                "icone": "fab fa-linkedin",
+                "link": "https://www.linkedin.com/company/cartoriopaulista/?viewAsMember=true"
+            },
+            {
+                "nome": "instagram",
+                "icone": "fab fa-instagram",
+                "link": "https://www.instagram.com/cartoriopaulista/"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "descricao": "Firmas e Autenticações",
+            "multipleGrupoOptions": false,
+            "opcoes": [
+                {
+                    "nomeGrupo": "Averbação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                },
+                {
+                    "nomeGrupo": "Habilitação de Casamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                }
+            ],
+            "link": "/servicos"
+        },
+        {
+            "descricao": "Escrituras",
+            "multipleGrupoOptions": false,
+            "opcoes": [
+                {
+                    "nomeGrupo": "Averbação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                },
+                {
+                    "nomeGrupo": "Habilitação de Casamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                }
+            ],
+            "link": "/servicos"
+        },
+        {
+            "descricao": "Procurações",
+            "multipleGrupoOptions": false,
+            "opcoes": [
+                {
+                    "nomeGrupo": "Averbação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                },
+                {
+                    "nomeGrupo": "Habilitação de Casamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                }
+            ],
+            "link": "/servicos"
+        },
+        {
+            "descricao": "E-notariado",
+            "multipleGrupoOptions": false,
+            "opcoes": [],
+            "link": "/servico/detalhe-servico?id=e_notariado"
+        },
+        {
+            "descricao": "+ Informações",
+            "multipleGrupoOptions": false,
+            "opcoes": [
+                {
+                    "nomeGrupo": "Averbação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                },
+                {
+                    "nomeGrupo": "Habilitação de Casamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                }
+            ],
+            "link": "/servicos"
+        },
+        {
+            "descricao": "Institucional",
+            "multipleGrupoOptions": false,
+            "opcoes": [
+                {
+                    "nomeGrupo": "Averbação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                },
+                {
+                    "nomeGrupo": "Habilitação de Casamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                }
+            ],
+            "link": "/servicos"
+        },
+        {
+            "descricao": "Fale Conosco",
+            "multipleGrupoOptions": false,
+            "opcoes": [
+                {
+                    "nomeGrupo": "Averbação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                },
+                {
+                    "nomeGrupo": "Habilitação de Casamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                }
+            ],
+            "link": "/servicos"
+        }
+    ],
+    "rodape": {
+        "logo": "https://cartoriopaulista.com.br/images/badge_180x55.jpg",
+        "titulo": "A gente protege você! Sobre nós",
+        "descricao": "Fundado em 1742, com mais de 280 anos de história, o 2º Tabelião de Notas de São Paulo conta hoje com uma surpreendente estrutura física, com funcionários altamente qualificados e com o que há de mais moderno em tecnologia da informação.",
+        "linksUteis": [
+            {
+                "nome": "Home",
+                "link": "/home"
+            },
+            {
+                "nome": "Cartório",
+                "link": "/cartorio"
+            },
+            {
+                "nome": "Serviços",
+                "link": "/servicos"
+            },
+            {
+                "nome": "Mensalistas",
+                "link": "/mensalista"
+            },
+            {
+                "nome": "Tabela de Custas",
+                "link": "/custas"
+            },
+            {
+                "nome": "Notícias",
+                "link": "/noticias"
+            },
+            {
+                "nome": "Dúvidas Frequentes",
+                "link": "/duvidas"
+            },
+            {
+                "nome": "Links Úteis",
+                "link": "/links-uteis"
+            },
+            {
+                "nome": "Contato",
+                "link": "/contato"
+            },
+            {
+                "nome": "Código de Ética do 2º Tabelião de Notas de São Paulo - Capital",
+                "link": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Download/MP+ADM+01+-+01+-+C%C3%B3digo+de+%C3%89tica+e+Conduta+%26+Manual+-+2cartoriosp.pdf"
+            },
+            {
+                "nome": "Programa de Compliance e Antissuborno",
+                "link": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Download/MP+ADM+03+-+02+-+Programa+de+Compliance+e+Antissuborno+-+2cartoriosp.pdf"
+            },
+            {
+                "nome": "Política Organizacional",
+                "link": "https://cartoriopaulista.com.br/images/Pol%C3%ADtica%20Organizacional4.pdf"
+            },
+            {
+                "nome": "Política de Privacidade do Site",
+                "link": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Download/Politica%2Bde%2BPrivacidade%2Bdo%2BSite.pdf"
+            },
+            {
+                "nome": "Política de Privacidade do Cartório Paulista",
+                "link": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Download/POL%C3%8DTICA%2BDE%2BPRIVACIDADE%2B-%2B2%2BTabeliao%2Bde%2BNotas%2Bde%2BSao%2BPaulo+(1).pdf"
+            }
+        ],
+        "certificados": [
+            "https://cartoriopaulista.com.br/images/selos/iso-b.png",
+            "https://cartoriopaulista.com.br/images/selos/nbr-b.png",
+            "https://cartoriopaulista.com.br/images/selos/iso37001-branco.png",
+            "https://cartoriopaulista.com.br/images/selos/iso37301-branco.png",
+            "https://cartoriopaulista.com.br/images/selos/pqta2020-b.png",
+            "https://cartoriopaulista.com.br/images/selos/pqta2021-b.png",
+            "https://cartoriopaulista.com.br/images/selos/Pqta2022-branco.png",
+            "https://cartoriopaulista.com.br/images/selos/selo-pqta2023-branco.png",
+            "https://cartoriopaulista.com.br/images/selos/rares-b.png",
+            "https://cartoriopaulista.com.br/images/selos/sinal-vermelho-b.png",
+            "https://cartoriopaulista.com.br/images/selos/cartoriotop-branco.png",
+            "https://cartoriopaulista.com.br/images/selos/cartoriotop-branco.png"
+        ]
+    },
+    "home": {
+        "banners": {
+            "fixo": false,
+            "index": 0,
+            "slides": [
+                {
+                    "imagem": "https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?cs=srgb&dl=pexels-thatguycraig000-1563356.jpg&fm=jpg",
+                    "titulo": "Titulo 1",
+                    "subtitulo": "syb1",
+                    "resumo": "a1",
+                    "link": ""
+                },
+                {
+                    "imagem": "https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                    "titulo": "Titulo2",
+                    "subtitulo": "sub2",
+                    "resumo": "a2",
+                    "link": ""
+                }
+            ]
+        },
+        "destaques": [
+            {
+                "icone": "https://cartoriopaulista.com.br/images/icones/escritura-de-compra-e-venda-de-bem.svg",
+                "descricao": "Compra e venda",
+                "label": "Solicitar serviço",
+                "link": "/servicos/detalhe-servico?id=Compra e venda",
+                "animacao": "0.3s"
+            },
+            {
+                "icone": "https://cartoriopaulista.com.br/images/icones/divorcio.svg",
+                "descricao": "Divórcio",
+                "label": "Solicitar serviço",
+                "link": "/servicos/detalhe-servico?id=Divórcio",
+                "animacao": "0.5s"
+            },
+            {
+                "icone": "https://cartoriopaulista.com.br/images/icones/procuracao-e-substabelecimento.svg",
+                "descricao": "Procuração e substabelecimento",
+                "label": "Solicitar serviço",
+                "link": "/servicos/detalhe-servico?id=Procuração e substabelecimento",
+                "animacao": "0.7s"
+            },
+            {
+                "icone": "https://cartoriopaulista.com.br/images/icones/escritura-de-doacao.svg",
+                "descricao": "Doação de bens",
+                "label": "Solicitar serviço",
+                "link": "/servicos/detalhe-servico?id=Doação de bens",
+                "animacao": "0.9s"
+            },
+            {
+                "icone": "https://cartoriopaulista.com.br/images/icones/inventario-extrajudicial.svg",
+                "descricao": "Inventário extrajudicial",
+                "label": "Solicitar serviço",
+                "link": "/servicos/detalhe-servico?id=Inventário extrajudicial",
+                "animacao": "0.9s"
+            },
+            {
+                "icone": "https://cartoriopaulista.com.br/images/icones/testamento.svg",
+                "descricao": "Testamento",
+                "label": "Solicitar serviço",
+                "link": "/servicos/detalhe-servico?id=Testamento",
+                "animacao": "0.9s"
+            }
+        ],
+        "servicoEvidencia": {
+            "nome": "E-notariado",
+            "titulo": "Quer saber como assinar seus documentos do cartório de forma digital?",
+            "descricao": "Entenda como funciona o certificado digiral do e-notariado e solicite o seu!",
+            "link": "/servicos/detalhe-servico"
+        },
+        "consultaInformacoes": [
+            {
+                "titulo": "Consultar firma",
+                "icone": "fa fa-search",
+                "label": "Saiba mais",
+                "descricao": "",
+                "link": "/duvidas?id=consultar-firma",
+                "animacao": "0.3s"
+            },
+            {
+                "titulo": "Tabela de custas",
+                "icone": "fa fa-file-alt",
+                "label": "Saiba mais",
+                "descricao": "",
+                "link": "/duvidas?id=consultar-firma",
+                "animacao": "0.3s"
+            },
+            {
+                "titulo": "Dúvidas frequentes",
+                "icone": "fa fa-question",
+                "label": "Saiba mais",
+                "descricao": "",
+                "link": "/duvidas?id=consultar-firma",
+                "animacao": "0.3s"
+            }
+        ],
+        "mensalista": {
+            "titulo": "",
+            "subtitulo": "",
+            "beneficios": [
+                {
+                    "icone": "",
+                    "titulo": "Setor exclusivo para atendimento",
+                    "subtitulo": ""
+                },
+                {
+                    "icone": "",
+                    "titulo": "Contato via instagram, facebook e site",
+                    "subtitulo": ""
+                },
+                {
+                    "icone": "",
+                    "titulo": "Atendimento exclusivo com escrevente",
+                    "subtitulo": ""
+                },
+                {
+                    "icone": "",
+                    "titulo": "Entrega de documentos em diligência",
+                    "subtitulo": ""
+                }
+            ],
+            "link": ""
+        },
+        "ultimasNoticias": {
+            "link": "",
+            "noticias": [
+                {
+                    "id": "1",
+                    "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.…--heranca-tudo-o-que-voce-precisa-saber-mini.jpeg",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "6 Mar 2025",
+                    "titulo": "Herança: Tudo o que você precisa saber",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": "/noticias/detalhe-noticias"
+                },
+                {
+                    "id": "2",
+                    "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.…ura-e-transparente-para-suas-transacoes-mini.jpeg",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "25 Fev 2025",
+                    "titulo": "Conta Notarial: Soluça2o segura e transparente para suass transações",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": "/noticias/detalhe-noticias"
+                },
+                {
+                    "id": "3",
+                    "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.…rio-extrajudicial-pode-ser-feito-online-mini.jpeg",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "19 Fev 2025",
+                    "titulo": "Inventário extrajudicial pode ser feito online",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": "/noticias/detalhe-noticias"
+                },
+                {
+                    "id": "4",
+                    "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.…como-funciona-a-hipoteca-extrajudicial--mini.jpeg",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "11 Fev 2025",
+                    "titulo": "Entenda como funciona a hipoteca extrajudicial",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": "/noticias/detalhe-noticias"
+                },
+                {
+                    "id": "5",
+                    "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.…25-doacao-de-bens-por-escritura-publica-mini.jpeg",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "4 Fev 2025",
+                    "titulo": "Doação de bens por escritura pública",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": "/noticias/detalhe-noticias"
+                },
+                {
+                    "id": "6",
+                    "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.…uma-via-fisica-de-um-documento-digital--mini.jpeg",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "21 Jan 2025",
+                    "titulo": "Materialização de documentos: obtenha uma via física de um documento digital",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": "/noticias/detalhe-noticias"
+                }
+            ]
+        }
+    },
+    "linksUteis": {
+        "grupos": [
+            {
+                "titulo": "",
+                "icone": "",
+                "itens": [
+                    {
+                        "nome": "",
+                        "link": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "tabelaCustas": {
+        "titulo": "",
+        "subtitulo": "",
+        "servicos": [
+            {
+                "icone": "",
+                "titulo": "",
+                "subtitulo": "",
+                "botoes": [
+                    {
+                        "label": "",
+                        "acao": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "noticias": {
+        "ultimasNoticias": {
+            "link": "",
+            "noticias": [
+                {
+                    "id": "",
+                    "imagem": "",
+                    "categoria": "",
+                    "autor": "",
+                    "data": "",
+                    "titulo": "",
+                    "subtitulo": "",
+                    "resumo": "",
+                    "link": ""
+                }
+            ]
+        },
+        "noticiasGeral": [
+            {
+                "id": "",
+                "imagem": "",
+                "categoria": "",
+                "autor": "",
+                "data": "",
+                "titulo": "",
+                "subtitulo": "",
+                "resumo": "",
+                "link": ""
+            }
+        ]
+    },
+    "duvidasFrequentes": {
+        "categorias": {
+            "nome": "",
+            "servicos": [
+                {
+                    "nome": "",
+                    "filtro": "",
+                    "id": ""
+                }
+            ]
+        },
+        "duvidas": [
+            {
+                "pergunta": "",
+                "resposta": "",
+                "id": ""
+            }
+        ]
+    },
+    "cartorio": {
+        "institucional": {}
+    }
+}

@@ -1,8 +1,7 @@
-from flask import Flask, request
-from fillpdf import fillpdfs
-import base64
+from flask import Flask, jsonify
 from flask_cors import CORS
-
+import os
+import json
 
 app = Flask(__name__)
 # Ativar o CORS para todos os endpoints
@@ -12,47 +11,26 @@ CORS(app)
 # Caminho para o arquivo PDF base
 PDF_PATH = "pdfs/FORM.pdf"  # Ajuste o caminho conforme necessário
 
-@app.route("/preencher", methods=["POST"])
-def preencher_pdf():
+@app.route("/gerar_json")
+def gerar_json():
     try:
-        dados = request.json
-        form_fields = list(fillpdfs.get_form_fields(PDF_PATH).keys())
-        dict_preenchido = {}
+        # Caminho do arquivo JSON dentro da pasta /data
+        file_path = os.path.join(os.getcwd(), "data", "base.json")
 
-        # Função para mapear campos dinamicamente
-        def mapear_campos(payload, prefixo=""):
-            for chave, valor in payload.items():
-                # Adicionar o prefixo para diferenciar campos aninhados
-                campo_pdf = f"{prefixo}{chave}"
-                if isinstance(valor, dict):
-                    # Recursão para campos aninhados
-                    mapear_campos(valor, prefixo=f"{campo_pdf}_")
-                else:
-                    # Adicionar ao dict se o campo existe nos form_fields
-                    if campo_pdf in form_fields:
-                        dict_preenchido[campo_pdf] = valor
+        # Verifica se o arquivo existe
+        if not os.path.exists(file_path):
+            return jsonify({"error": "Arquivo JSON não encontrado"}), 404
 
-        # Mapear os campos do payload para o dict
-        mapear_campos(dados)
+        # Lê o conteúdo do arquivo JSON
+        with open(file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
 
-        # Preencher o PDF com os dados
-        pdf_output_path = 'preenchido.pdf'
-        fillpdfs.write_fillable_pdf(PDF_PATH, pdf_output_path, dict_preenchido)
+        return jsonify(data), 200
 
-        # Abrir o PDF preenchido em modo binário
-        with open(pdf_output_path, 'rb') as f:
-            pdf_data = f.read()
-
-        # Converter o conteúdo binário do PDF para base64
-        pdf_base64 = base64.b64encode(pdf_data).decode('utf-8')
-
-        # Retornar o PDF preenchido como base64
-        return {'status': 'PDF Gerado', 'pdf_base64': pdf_base64}
-    
-    except KeyError as e:
-        return {'error': f"Chave não encontrada: {e}"}, 400
+    except json.JSONDecodeError:
+        return jsonify({"error": "Erro ao decodificar JSON"}), 400
     except Exception as e:
-        return {'error': f"Erro inesperado: {e}"}, 500
-    
+        return jsonify({"error": f"Erro inesperado: {e}"}), 500
+   
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True, port=6002)
