@@ -12,9 +12,9 @@
         "a7": "#f7fafd",
         "a8": "#207ef7",
         "a9": "#47484a",
-        "b0": "",
-        "b1": "",
-        "b2": "",
+        "b0": "#d0def8",
+        "b1": "#064a97",
+        "b2": "#364671",
         "b3": "",
         "b4": "",
         "b5": "",
@@ -24,9 +24,9 @@
         "b9": ""
     },
     "fontes": {
-        "titulo": "Sigmar, serif",
-        "subtitulo": "Sigmar, serif",
-        "body": "Sigmar, serif"
+        "titulo": "Rubik, sans-serif",
+        "subtitulo": "Rubik, sans-serif",
+        "body": ""
     },
     "contato": {
         "endereco": {
@@ -79,14 +79,39 @@
             "multipleGrupoOptions": false,
             "opcoes": [
                 {
-                    "nomeGrupo": "Averbação",
+                    "nomeGrupo": "Abertura de Firma",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/servicos/detalhe-servico?id=1"
                 },
                 {
-                    "nomeGrupo": "Habilitação de Casamento",
+                    "nomeGrupo": "Apostilamento",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/servicos/detalhe-servico?id=2"
+                },
+                {
+                    "nomeGrupo": "Autenticação de Cópia",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=3"
+                },
+                {
+                    "nomeGrupo": "Carta de Sentença",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=4"
+                },
+                {
+                    "nomeGrupo": "Materialização de Documento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=6"
+                },
+                {
+                    "nomeGrupo": "Reconhecimento de Firma",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=7"
+                },
+                {
+                    "nomeGrupo": "Reconhecimento de sinal Público",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=8"
                 }
             ],
             "link": "/servicos"
@@ -96,14 +121,79 @@
             "multipleGrupoOptions": false,
             "opcoes": [
                 {
-                    "nomeGrupo": "Averbação",
+                    "nomeGrupo": "Ata Notarial",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/servicos/detalhe-servico?id=9"
                 },
                 {
-                    "nomeGrupo": "Habilitação de Casamento",
+                    "nomeGrupo": "Certidão",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/servicos/detalhe-servico?id=10"
+                },
+                {
+                    "nomeGrupo": "DAV (Testamento Vital)",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=11"
+                },
+                {
+                    "nomeGrupo": "Declaração",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=12"
+                },
+                {
+                    "nomeGrupo": "Declaração de União Estável",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=13"
+                },
+                {
+                    "nomeGrupo": "Divórcio",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=14"
+                },
+                {
+                    "nomeGrupo": "Emancipação",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=15"
+                },
+                {
+                    "nomeGrupo": "Escritura de Compra e Venda",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=16"
+                },
+                {
+                    "nomeGrupo": "Escritura de Doação de Bem",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=17"
+                },
+                {
+                    "nomeGrupo": "Inventário Extrajudicial",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=18"
+                },
+                {
+                    "nomeGrupo": "Orçamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=19"
+                },
+                {
+                    "nomeGrupo": "Pacto Antenupcial",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=20"
+                },
+                {
+                    "nomeGrupo": "Reconhecimento de Filho",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=21"
+                },
+                {
+                    "nomeGrupo": "Testamento",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=22"
+                },
+                {
+                    "nomeGrupo": "Usucapião Extrajudicial",
+                    "opcoesGrupo": [],
+                    "link": "/servicos/detalhe-servico?id=23"
                 }
             ],
             "link": "/servicos"
@@ -113,14 +203,14 @@
             "multipleGrupoOptions": false,
             "opcoes": [
                 {
-                    "nomeGrupo": "Averbação",
+                    "nomeGrupo": "Procuração e Substabelecimento",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/servicos/detalhe-servico?id=24"
                 },
                 {
-                    "nomeGrupo": "Habilitação de Casamento",
+                    "nomeGrupo": "Revogação de Procuração",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/servicos/detalhe-servico?id=25"
                 }
             ],
             "link": "/servicos"
@@ -129,21 +219,37 @@
             "descricao": "E-notariado",
             "multipleGrupoOptions": false,
             "opcoes": [],
-            "link": "/servico/detalhe-servico?id=e_notariado"
+            "link": "/servicos/detalhe-servico",
+            "id": 26
         },
         {
             "descricao": "+ Informações",
             "multipleGrupoOptions": false,
             "opcoes": [
                 {
-                    "nomeGrupo": "Averbação",
+                    "nomeGrupo": "Mensalistas",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/mensalista"
                 },
                 {
-                    "nomeGrupo": "Habilitação de Casamento",
+                    "nomeGrupo": "Notícias",
                     "opcoesGrupo": [],
-                    "link": "/servicos/detalhe-servico?id=id_averbacao"
+                    "link": "/noticias"
+                },
+                {
+                    "nomeGrupo": "Tabela de custas",
+                    "opcoesGrupo": [],
+                    "link": "/custas"
+                },
+                {
+                    "nomeGrupo": "Links úteis",
+                    "opcoesGrupo": [],
+                    "link": "/links-uteis"
+                },
+                {
+                    "nomeGrupo": "Dúvidas frequentes",
+                    "opcoesGrupo": [],
+                    "link": "/duvidas"
                 }
             ],
             "link": "/servicos"
@@ -457,14 +563,195 @@
         }
     },
     "linksUteis": {
+        "imagem": "https://cartoriopaulista.com.br/images/page-title/2.jpg",
         "grupos": [
             {
-                "titulo": "",
-                "icone": "",
+                "titulo": "Anoreg",
+                "icone": "fa fa-link",
                 "itens": [
                     {
-                        "nome": "",
-                        "link": ""
+                        "nome": "Associação dos Notários e Registradores do Brasil",
+                        "link": "https://www.anoreg.org.br/site/"
+                    },
+                    {
+                        "nome": "Associação dos Notários e Registradores do Brasil/SP",
+                        "link": "http://www.anoregsp.org.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Arisp",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "Associação do Registradores Imobiliários de São Paulo",
+                        "link": "http://www.arisp.com.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Arpen",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "Associação Nacional dos Registradores de Pessoas Naturais",
+                        "link": "https://arpenbrasil.org.br/"
+                    },
+                    {
+                        "nome": "Associação Nacional dos Registradores de Pessoas Naturais/SP",
+                        "link": "https://www.arpensp.org.br/arpen-sp"
+                    }
+                ]
+            },
+            {
+                "titulo": "Colégio Notarial do Brasil",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "CNB/SP (Custas)",
+                        "link": "http://www.cnbsp.org.br/index.php?pG=X190YWJlbGFzX2Vtb2x1bWVudG9z"
+                    },
+                    {
+                        "nome": "CNB",
+                        "link": "http://www.notariado.org.br/"
+                    },
+                    {
+                        "nome": "CNB/SP",
+                        "link": "https://www.cnbsp.org.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Governo Federal",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "Câmara dos Deputados",
+                        "link": "http://www2.camara.gov.br/"
+                    },
+                    {
+                        "nome": "Cadastro Nacional de Cartórios",
+                        "link": "https://portal.mj.gov.br/CartorioInterConsulta/"
+                    },
+                    {
+                        "nome": "Leis - Planalto",
+                        "link": "http://www4.planalto.gov.br/legislacao"
+                    },
+                    {
+                        "nome": "Posto Fiscal Eletrônico",
+                        "link": "http://www.pfe.fazenda.sp.gov.br/"
+                    },
+                    {
+                        "nome": "Procuradoria - Geral da Fazenda Nacional",
+                        "link": "http://www.pgfn.fazenda.gov.br/"
+                    },
+                    {
+                        "nome": "Receita Federal",
+                        "link": "http://www.receita.fazenda.gov.br/"
+                    },
+                    {
+                        "nome": "Senado",
+                        "link": "http://www.senado.gov.br/"
+                    },
+                    {
+                        "nome": "Agenda de 2030 da ONU",
+                        "link": "https://nacoesunidas.org/pos2015/agenda2030/"
+                    }
+                ]
+            },
+            {
+                "titulo": "CDT",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "CDT- Centro de Estudos e Distribuição de Títulos e Documentos",
+                        "link": "http://www.cdtsp.com.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Justiça",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "Conselho Nacional de Justiça",
+                        "link": "http://www.cnj.jus.br/"
+                    },
+                    {
+                        "nome": "Justiça Federal - Seção SP",
+                        "link": "http://www.jfsp.jus.br/"
+                    },
+                    {
+                        "nome": "STF - Supremo Tribunal Federal",
+                        "link": "https://portal.stf.jus.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Protesto",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "IEPTB - Instituto de Estudos de Protesto de Títulos do Brasil",
+                        "link": "http://www.protestodetitulos.org.br/"
+                    },
+                    {
+                        "nome": "SCPT - Serviço Central de Protesto de Títulos",
+                        "link": "http://www.protesto.com.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Institutos",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "IRIB - Instituto de Registro Imobiliário do Brasil",
+                        "link": "http://www.irib.org.br/html/home/pagina-inicial.php"
+                    },
+                    {
+                        "nome": "IRTDPJ - Instituto de Registro de Títulos e Documentos e de Pessoas Jurídicas do Brasil",
+                        "link": "http://www.irtdpjbrasil.com.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Previdência Social",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "Previdência",
+                        "link": "http://www.previdencia.gov.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Superior Tribunal de Justiça",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "STJ - Superior Tribunal de Justiça",
+                        "link": "https://www.stj.jus.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tribunal de Justiça",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "TJ/SP - Portal Extrajudicial",
+                        "link": "https://extrajudicial.tjsp.jus.br/"
+                    }
+                ]
+            },
+            {
+                "titulo": "2 Cartório de Notas de São Paulo",
+                "icone": "fa fa-link",
+                "itens": [
+                    {
+                        "nome": "Código de Ética",
+                        "link": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Download/Codigo+de+etica+e+conduta.pdf"
                     }
                 ]
             }
@@ -488,6 +775,7 @@
         ]
     },
     "noticias": {
+        "imagem": "https://cartoriopaulista.com.br/images/page-title/26.jpg",
         "ultimasNoticias": {
             "link": "",
             "noticias": [
@@ -506,15 +794,81 @@
         },
         "noticiasGeral": [
             {
-                "id": "",
-                "imagem": "",
+                "id": "1",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/06032025--heranca-tudo-o-que-voce-precisa-saber.jpeg",
                 "categoria": "",
                 "autor": "",
-                "data": "",
-                "titulo": "",
+                "data": "6 Mar 2025",
+                "titulo": "Herança: Tudo o que você precisa saber",
                 "subtitulo": "",
                 "resumo": "",
-                "link": ""
+                "link": "/noticias/detalhe-noticias"
+            },
+            {
+                "id": "2",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/25022025-conta-notarial-solucao-segura-e-transparente-para-suas-transacoes.jpeg",
+                "categoria": "",
+                "autor": "",
+                "data": "25 Fev 2025",
+                "titulo": "Conta Notarial: Soluça2o segura e transparente para suass transações",
+                "subtitulo": "",
+                "resumo": "",
+                "link": "/noticias/detalhe-noticias"
+            },
+            {
+                "id": "3",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/19022025-inventario-extrajudicial-pode-ser-feito-online.jpeg",
+                "categoria": "",
+                "autor": "",
+                "data": "19 Fev 2025",
+                "titulo": "Inventário extrajudicial pode ser feito online",
+                "subtitulo": "",
+                "resumo": "",
+                "link": "/noticias/detalhe-noticias"
+            },
+            {
+                "id": "4",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/11022025-entenda-como-funciona-a-hipoteca-extrajudicial-.jpeg",
+                "categoria": "",
+                "autor": "",
+                "data": "11 Fev 2025",
+                "titulo": "Entenda como funciona a hipoteca extrajudicial",
+                "subtitulo": "",
+                "resumo": "",
+                "link": "/noticias/detalhe-noticias"
+            },
+            {
+                "id": "5",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/04022025-doacao-de-bens-por-escritura-publica.jpeg",
+                "categoria": "",
+                "autor": "",
+                "data": "4 Fev 2025",
+                "titulo": "Doação de bens por escritura pública",
+                "subtitulo": "",
+                "resumo": "",
+                "link": "/noticias/detalhe-noticias"
+            },
+            {
+                "id": "6",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/04022025-doacao-de-bens-por-escritura-publica.jpeg",
+                "categoria": "",
+                "autor": "",
+                "data": "21 Jan 2025",
+                "titulo": "Materialização de documentos: obtenha uma via física de um documento digital",
+                "subtitulo": "",
+                "resumo": "",
+                "link": "/noticias/detalhe-noticias"
+            },
+            {
+                "id": "7",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Publicacao/14012025-procuracao-publica-determine-quem-pode-te-representar-em-atos-relevantes.jpeg",
+                "categoria": "",
+                "autor": "",
+                "data": "14 Jan 2025",
+                "titulo": "Procuração pública: Determine quem pode te representar em atos relevantes",
+                "subtitulo": "",
+                "resumo": "",
+                "link": "/noticias/detalhe-noticias"
             }
         ]
     },
@@ -539,8 +893,14 @@
             {
                 "pergunta": "Como é feito a abertura de Firmas",
                 "resposta": "O interessado comparece ao Tabelionato, com seu RG, CPF ou CNH (Carteira Nacional de Habilitação) na validade ORIGINAL (não serve cópia autenticada), e assina duas vezes em um formulário, preenchendo-o com seus dados. Seus dados serão, então, inseridos no sistema, e ele já terá firma aberta no Tabelionato. A partir daí, qualquer interessado poderá vir ao Tabelionato e reconhecer sua firma.",
-                "id": 1,
+                "id": 2,
                 "idServico": 1
+            },
+            {
+                "pergunta": "O que é o apostilamento?",
+                "resposta": "A Apostila é um certificado de autenticidade emitido por países signatários da Convenção da Haia, promulgada no Brasil pelo Decreto 8.666/2016, que é colocada em um documento público para atestar sua origem (assinatura, cargo de agente público, selo ou carimbo de instituição). Esse documento público apostilado será apresentado em outro país, também signatário da Convenção da Haia, uma vez que a apostila só é válida entre países signatários. <br/><br/> O apostilamento foi instituído para substituir a legalização de documentos, que eram feitos através dos consulados, muitas vezes complicado, demorado e dispendioso. <br/> <br/><b>Fonte do site: Colégio Notarial do Brasil, Seção São Paulo<br></b>",
+                "id": 3,
+                "idServico": 2
             }
         ]
     },
@@ -559,7 +919,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/apostilamento.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_APOSTILAMENTO"
         },
         {
             "id": 3,
@@ -567,7 +927,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/autenticacao-de-copia.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_AUTENTICACAO_COPIA"
         },
         {
             "id": 4,
@@ -575,7 +935,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/carta-de-sentenca.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_CARTA_SENTENCA"
         },
         {
             "id": 5,
@@ -583,7 +943,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/comunicacao-cartorio.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://infographya.com/produto-cartorios/index-cartorio-paulista"
         },
         {
             "id": 6,
@@ -591,7 +951,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/materializacao-de-documento.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_MATERIALIZACAO_DOCUMENTO"
         },
         {
             "id": 7,
@@ -599,7 +959,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/reconhecimento-de-firma.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_RECONHECIMENTO_FIRMA"
         },
         {
             "id": 8,
@@ -607,7 +967,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/reconhecimento-de-sinal-publico.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_RECONHECIMENTO_SINAL_PUBLICO"
         },
         {
             "id": 9,
@@ -615,7 +975,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/ata-notarial.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_ATA_NOTARIAL"
         },
         {
             "id": 10,
@@ -623,7 +983,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/certidao.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://solicitacoes.cartoriopaulista.com.br/escrituras?codigoCartorio=81147fbf-14a0-11eb-8252-0a96c6f995dd"
         },
         {
             "id": 11,
@@ -631,7 +991,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/dav.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_DAV_TESTAMENTO_VITAL"
         },
         {
             "id": 12,
@@ -639,7 +999,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/declaracao.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_DECLARACAO"
         },
         {
             "id": 13,
@@ -647,7 +1007,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/declaracao-de-uniao-estavel.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_DECLARACAO_UNIAO_ESTAVEL"
         },
         {
             "id": 14,
@@ -655,7 +1015,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/divorcio.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_DIVORCIO"
         },
         {
             "id": 15,
@@ -663,7 +1023,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/emancipacao.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_EMANCIPACAO"
         },
         {
             "id": 16,
@@ -671,7 +1031,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/escritura-de-compra-e-venda-de-bem.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_COMPRA_VENDA"
         },
         {
             "id": 17,
@@ -679,7 +1039,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/escritura-de-doacao-de-bem.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_DOACAO"
         },
         {
             "id": 18,
@@ -687,7 +1047,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/inventario-extrajudicial.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_INVENTARIO_EXTRAJUDICIAL"
         },
         {
             "id": 19,
@@ -695,7 +1055,7 @@
             "icone": "",
             "imagem": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/orcamento.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://solicitacoes.cartoriopaulista.com.br/orcamento"
         },
         {
             "id": 20,
@@ -703,7 +1063,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/pacto-antenupcial.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_PACTO_ANTENUPCIAL"
         },
         {
             "id": 21,
@@ -711,7 +1071,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/reconhecimento-de-filho.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_RECONHECIMENTO_FILHO"
         },
         {
             "id": 22,
@@ -719,7 +1079,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/testamento.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_TESTAMENTO"
         },
         {
             "id": 23,
@@ -727,7 +1087,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/usucapiao-extrajudicial.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_USUCAPIAO_EXTRAJUDICIAL"
         },
         {
             "id": 24,
@@ -735,7 +1095,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/procuracao-e-substabelecimento.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_PROCURACAO_SUBSTABELECIMENTO"
         },
         {
             "id": 25,
@@ -743,7 +1103,7 @@
             "icone": "",
             "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/revogacao-de-procuracao.svg",
             "link": "/servicos/detalhe-servico",
-            "linkIframe": ""
+            "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_REVOGACAO_PROCURACAO"
         },
         {
             "id": 26,
@@ -770,6 +1130,127 @@
             "linkIframe": ""
         }
     ],
+    "mensalista": {
+        "imagem": "https://cartoriopaulista.com.br/images/page-title/4.jpg",
+        "titulo": "Faça os serviços da sua empresa de forma mais rápida e fácil.",
+        "subtitulo": "O atendimento ideal para o seu negócio",
+        "texto": "Buscando a excelência no atendimento, possuímos uma equipe dedicada para atender ao seu negócio de forma rápida e fácil. Possuímos portadores para retirar e devolver os serviços executados por nossa Serventia, dessa forma você e sua empresa poderão ganhar tempo para executar outras atividades.<br/>Temos relatórios mensais para você acompanhar todos os serviços executados e os valores cobrados por cada um deles, veja todas as vantagens que o Serviço de Mensalistas pode trazer para você e sua empresa.",
+        "beneficios": [
+            {
+                "icone": "",
+                "titulo": "Setor exclusivo para atendimento",
+                "subtitulo": ""
+            },
+            {
+                "icone": "",
+                "titulo": "Contato via instagram, facebook e site",
+                "subtitulo": ""
+            },
+            {
+                "icone": "",
+                "titulo": "Atendimento exclusivo com escrevente",
+                "subtitulo": ""
+            },
+            {
+                "icone": "",
+                "titulo": "Entrega de documentos em diligência",
+                "subtitulo": ""
+            },
+            {
+                "icone": "",
+                "titulo": "Pagamentos mensais",
+                "subtitulo": ""
+            }
+        ],
+        "servicos": [
+            {
+                "id": 1,
+                "titulo": "Abertura de Firma",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/abertura-de-firma.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_ABERTURA_FIRMA"
+            },
+            {
+                "id": 2,
+                "titulo": "Apostilamento",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/apostilamento.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_APOSTILAMENTO"
+            },
+            {
+                "id": 9,
+                "titulo": "Ata Notarial",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/ata-notarial.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_ATA_NOTARIAL"
+            },
+            {
+                "id": 3,
+                "titulo": "Autenticação de Cópia",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/autenticacao-de-copia.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_AUTENTICACAO_COPIA"
+            },
+            {
+                "id": 6,
+                "titulo": "Materialização de Documento",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/materializacao-de-documento.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_MATERIALIZACAO_DOCUMENTO"
+            },
+            {
+                "id": 24,
+                "titulo": "Procuração e Substabelecimento",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/procuracao-e-substabelecimento.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_PROCURACAO_SUBSTABELECIMENTO"
+            },
+            {
+                "id": 7,
+                "titulo": "Reconhecimento de Firma",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/reconhecimento-de-firma.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_RECONHECIMENTO_FIRMA"
+            },
+            {
+                "id": 8,
+                "titulo": "Reconhecimento de Sinal Público",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/reconhecimento-de-sinal-publico.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_RECONHECIMENTO_SINAL_PUBLICO"
+            },
+            {
+                "id": 25,
+                "titulo": "Revogação de Procuração",
+                "icone": "",
+                "imagem": "https://s3-us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Servico/revogacao-de-procuracao.svg",
+                "link": "/servicos/detalhe-servico",
+                "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=ESCRITURA_REVOGACAO_PROCURACAO"
+            }
+        ],
+        "link": "",
+        "linkIframe": "https://escrituras.cartoriopaulista.com.br/solicitacao-simples/81147fbf-14a0-11eb-8252-0a96c6f995dd?tipoSolicitacao=FIRMAS_AUTENTICACAO_MENSALISTA"
+    },
+    "custas": {
+        "imagem": "https://cartoriopaulista.com.br/images/page-title/11.jpg",
+        "texto": "Os valores dos serviços cobrados pelo cartório são definidos pela legislação estadual e praticados por todos os tabelionatos do Estado de São Paulo.",
+        "titulo": "Tabela de Custas e Emolumentos (PDF)",
+        "botoes": [
+            {
+                "icone": "fa fa-download",
+                "descricao": "Download",
+                "link": "https://s3.us-west-2.amazonaws.com/inovacartorios.com.br/websites/SP/SaoPaulo/2TN/Download/TABELA-DE-EMOLUMENTOS-BASE-PARA-2025-capital+(1).pdf"
+            }
+        ]
+    },
     "cartorio": {
         "institucional": {}
     }
